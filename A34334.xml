@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A general epistle containing wholsom admonition &amp; advice to friends in Ireland and elsewhere</title>
+            <author>Carleton, Thomas, 1636?-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34334</idno>
+            <idno type="STC">Wing C589</idno>
+            <idno type="STC">ESTC R29174</idno>
+            <idno type="EEBO-CITATION">10840401</idno>
+            <idno type="OCLC">ocm 10840401</idno>
+            <idno type="VID">46095</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34334)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46095)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1418:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A general epistle containing wholsom admonition &amp; advice to friends in Ireland and elsewhere</title>
+                  <author>Carleton, Thomas, 1636?-1684.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life.</term>
+               <term>Dissenters, Religious --  England.</term>
+               <term>Gifts, Spiritual.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:46095:1"/>
+            <pb n="1" facs="tcp:46095:1" rendition="simple:additions"/>
+            <head>A General Epiſtle: CONTAINING Wholſom Admonition &amp; Advice to Friends in <hi>IRELAND,</hi> and elſe-where.</head>
+            <byline>By <hi>Thomas Carleton.</hi>
+            </byline>
+            <p>DEar and well-beloved Friends, Brethren and Siſters who are in ſome Meaſure gathered by the Arm of God's Power, and have known the bleſſed Appea<g ref="char:EOLhyphen"/>rance of Life and Salvation, to you is the Salutation of my unfeigned Love, and in the Fellowſhip of God's Everlaſting Light do I tenderly greet you all; and for the clearing of my Spirit, of that which for ſome time hath been upon me, do I com<g ref="char:EOLhyphen"/>municate theſe Lines, in the true Simplicity of my Heart, dearly deſiring all that love the Lord Jeſus Chriſt, To keep low and near the Lord, and wait to feel God's living Power in your Hearts, unto which we were turned or exhorted from the Beginning; for, in the Light of the Lord, I ſee there is a Ne<g ref="char:EOLhyphen"/>ceſſity for it: For, unleſs the Senſe of God's living Power be felt, Profeſſion is vain, and Meetings are not made profitable; for the Myſteries of Life and Salvation, and of true <hi>Chriſtia<g ref="char:EOLhyphen"/>nity,</hi> conſiſt not only in any Profeſſion, Name or Notion, of this or that Principle, Article or Creed, formed or received
+<pb n="2" facs="tcp:46095:2"/>in the Minds of M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n or Women, but in a living Enjoyment and Poſſeſſion of the Power and Spirit of Chriſt Jeſus, the Au<g ref="char:EOLhyphen"/>thor &amp; Finiſher of the living ſaying Faith. So my dear Friends, all wait to feel the Operation of that Power in every Heart and Soul, to ſubdue all to God, and to work all into ſubmiſſion and real obedience to the heavenly Will and Mind of Chriſt Jeſus, <hi>who is come a Light into the World, that all men through him might believe;</hi> here is the unchangeable ſtanding Rule, which every one is to meaſure themſelves by; and he or ſhe that is meaſured or ſquared by this, is as poliſhed Stones for God's ſpi<g ref="char:EOLhyphen"/>ritual Houſe; and he or ſhe that is not ſqaared by this, are not fit to be Members of God's Building: ſo all having the Meaſu<g ref="char:EOLhyphen"/>ring line in your hearts, let Judgment be laid to it, and ſo try all things, words, works, behaviours, and the Intent of all, and from what ground &amp; ſoirit it doth proceed: and this unchange<g ref="char:EOLhyphen"/>able everlaſting Rule all keep to it, and build by it, ſo ſhall you be juſtified with it in the Day of Tryal; ſo all things done by this unchangeable everting Rule (the Law of the Spirit of Life) this keeps clean and pure, and ſets free of all Mud and Confuſi<g ref="char:EOLhyphen"/>on, Sin and Iniquity, and things that bring death and darkneſs over the Soul and Underſtanding; and ſo cloud the Teſtimony: So let every man and woman (by this ſtanding Rule) examine themſelves, and ſo let them eat, ſpeak or act, as the Lord ſhall perſwade them; and wherein any one doubteth, and is not clear in what he or ſhe undertaketh, let ſuch forbear, and wait in qui<g ref="char:EOLhyphen"/>etneſs till the Lord clear their way: So all take heed, and keep to the Rule; <hi>for in the Lord's Light we ſee Light, and have Clearneſs, and Freedom, and Peace; but going from the Light, without Rule, without Guide, the Vail comes over, Darkneſs ga<g ref="char:EOLhyphen"/>thers in, Confuſion &amp; Trouble, then Peace comes to be loſt:</hi> So you that have known in any meaſure the work of Regeneration and of the New Fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th through the working of God's Spirit &amp; Power in your Hearts, by which ſome unclean ſpirits have been caſt out, keep to the Power ſtill, &amp; beware of letting in the unclean ſpirit again, for if you do, the latter end will be worſe then the beginning. And lean not to the World's Wiſdom, beware of that ſpirit I adviſe all; for by that wiſdom God is not known;
+<pb n="3" facs="tcp:46095:2"/>and if once the Senſe and enjoyment of God be loſt, then man and woman is in a woful ſtate, without God in the World; ſo keep out of the world's ſpirit I intreat you all, and live as Fools to it, and all its <hi>wayes, faſhions</hi> &amp; <hi>cuſtoms;</hi> for in the Lord I ſee a great Snare at this day, and too many that make Profeſſion of Truth are like to be ſplit upon that Rock. So dear Friends, live looſe to the world, and all the glories of it, and ſeek to be wiſe in that which is not of this world, that you may be loved of God; and ſo dwell in that which can bear the <hi>revilings</hi> and <hi>re<g ref="char:EOLhyphen"/>proaches</hi> of this world, and the <hi>contradiction of ſinners,</hi> as our Lord Jeſus Chriſt hath leſt us an Example: So beware of look<g ref="char:EOLhyphen"/>ing back to <hi>Egypt</hi>'s Glory again, to ſee any <hi>beauty</hi> or <hi>comlineſ</hi> in that dark Land; for, from the Lord I ſee a Temptation at<g ref="char:EOLhyphen"/>tending God's <hi>ſpiritual Iſrael</hi> in this day, as ſurely as ever it at<g ref="char:EOLhyphen"/>tended <hi>Iſrael</hi> after the Fleſh, and many are too prone to deſire the <hi>pleaſures</hi> of <hi>Egypt</hi> again <hi>(though the beſt of them be</hi> bondage, <hi>as many to their Sorrow have found)</hi> yea, too many there be that cannot bear <hi>tryals</hi> and <hi>reproaches,</hi> and the <hi>way of the Croſs</hi> and <hi>ſelf-denyal,</hi> but think it <hi>long,</hi> and <hi>weariſom,</hi> and <hi>hard,</hi> as they did in the dayes of old, and ſo are too ready to murmur and repine, and luſt in their hearts after this World's <hi>glory</hi> again, and joyn to its <hi>faſhions</hi> &amp; <hi>cuſtoms</hi> again, and ſo ſet up Idols again, as they did whoſe <hi>Carcaſes fell in the Wilderneſs,</hi> with whom the Lord was diſpleaſed: So beware of letting in that ſpirit of <hi>diſtruſt, un<g ref="char:EOLhyphen"/>belief</hi> and <hi>rebellion</hi> againſt God, and his pure Witneſs in your Conſciences, and beware of building that which was once de<g ref="char:EOLhyphen"/>ſtroyed, or licking up that which was once vomited, or enter<g ref="char:EOLhyphen"/>taining of that which was once caſt out, or owning that which was once denyed, either in <hi>words,</hi> in <hi>works,</hi> in <hi>behaviour,</hi> in <hi>appa<g ref="char:EOLhyphen"/>rel,</hi> in <hi>doctrine</hi> or <hi>faith:</hi> hath Truth in you condemned for all idle, vain prophane, wicked, unſound and unſavoury <hi>words,</hi> and brought you into a Form of needful, true and ſound <hi>words?</hi> keep to it ſtill: hath Truth condemned all idle, proud, prophane, wicked and ungodly <hi>actions;</hi> and all empty, airy, fooliſh, wan<g ref="char:EOLhyphen"/>ton, luſtful, proud, ſelf-willed and men-pleaſing <hi>behaviours,</hi> and brought you into Moderation, Gravity, Plainneſs, Reallity and Truth in Life and Converſation? keep to it ſtill: hath Truth condemned for decking &amp; adorning the Body with vain, ſuper<g ref="char:EOLhyphen"/>fluous,
+<pb n="4" facs="tcp:46095:3"/>proud, needleſs, worldly, eye-taking Toyes in Appar<g ref="char:EOLhyphen"/>rel, and led you into plain, profitable, decent needful, things? keep to it ſtill: and faſhion not your ſelves like unto the world, nor learn any of their Manners nor of the Breeding of that <hi>E<g ref="char:EOLhyphen"/>gyptian</hi>-Spirit, which keeps the Seed in Bondage, and oppreſſeth the Juſt in the particular and in the general; ſo from the Lord I adviſe you all, and warn you all that are parents, to watch over your Children, and bring them up in the Nurture and Admoni<g ref="char:EOLhyphen"/>tion of the Lord, and beware you breed them not up in the World's manners nor cuſtoms, nor in Pride, Lightneſs and Va<g ref="char:EOLhyphen"/>nity, nor in things that puff up and lead away their Minds from under the Croſs of Chriſt Jeſus, but rather breed them up in Humility, Lowlineſs and Self denial, and in the Fear of the Lord, which is the Beginning of true Wiſdom and gate of Vir<g ref="char:EOLhyphen"/>tue; and ſo endeavour to train them up in the right way to life, and lay a good Foundation in them while they are young, and then both you and they may expect a Bleſſing from the Lord which is better then all. So away with all Manners and Breed<g ref="char:EOLhyphen"/>ing, and Education that is out of the Fear of God; for you your ſelves know, the firſt Nature in it ſelf is too inclinable to be ta<g ref="char:EOLhyphen"/>ken with the Manners and Cuſtoms of the <hi>Egyptian</hi> Spirit, and to take pleaſure and conceit itſelf, and be puffed up with and in thoſe things that lead from God, without nurſing and encouraging thereunto; ſo keep all low in Meekneſs and Self-denyal, that God's Fear may be timely planted in their Hearts, and the Principles of Life and Peace they may be inſtru<g ref="char:EOLhyphen"/>cted in, as you your ſelves have learned them of the Lord, that ſo the loving kindneſs and gentle dealings of God towards us, we may tell of them to our Children, and they to another Generation; ſo all learning the Way of the Croſs and Self<g ref="char:EOLhyphen"/>denyal, that Will that is carnal and earthly will be mortified and ſlain, and the Spirit of the World and the Cuſtoms thereof will be crucified to you all, and you all unto it, and then, how can they that are crucified to the world live any longer therein? and ſo ſpiritual Men and ſpiritual Women, Sons and Daughters of the incorruptible Seed, begotten again by the Power and Spirit of Chriſt Jeſus, and ſo dead to the world's Spirit, Wayes, Cuſtoms, Manners, Traditions, Ordinances and Worſhips, all
+<pb n="5" facs="tcp:46095:3"/>in the Fall and Degeneration from God, and every one living up to this, being guided by God's Wiſdom, keep their Teſti<g ref="char:EOLhyphen"/>mony clear and unviolated in the Sight of God and Men. So ſtand true Witneſſes for God, and be faithful, or full of Faith in the Lord; believe in him, love him above all, and truſt him with all, Wife and Children, Eſtate and Life; and take heed of giving Offence, or of cauſing Truth to ſuffer in its Eſteem; for God hath glorified it, and will glorifie it; and Wo from the Lord is to them that cauſe Truth to be ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ſpoken of, that brings a Blot upon their Teſtimony, &amp; ſo marreth the Viſage &amp; Countenance of Truth in the particular, or in the general. And dear Friends ſtand living Witneſſes for God's Truth, and be not cowardly, but valiant, as Souldiers of Chriſt Jeſus, and ſtand up againſt all the Works &amp; Workers of Iniquity, againſt all Hirelings &amp; falſe Shepherds, againſt the grand Oppreſſion of Tythes, with the aboliſhed Ceremonies and Ordinances of the firſt Covenant, and <hi>Jews</hi> outwardly, which Antichriſt and the Deceivers that are gone into the World (having loſt the Power) would inno<g ref="char:EOLhyphen"/>vate and ſet up again, among the <hi>Gentiles</hi> or <hi>Jews</hi> inward, con<g ref="char:EOLhyphen"/>trary to the Inſtitution of God; and ſtand up againſt all Swear<g ref="char:EOLhyphen"/>ing, and that which leads to Swearing, and againſt Lying or Stealing, and againſt Fighting or Killing (ſince our Kingdom is not of the World) and againſt Fornication, Adultery, Whore<g ref="char:EOLhyphen"/>dom, Laſciviouſneſs, Luxury, and all manner of Unclearneſs, the Sins of this World, which are ſo vile they are ſcarce fit to be ſpoken of, or named amongſt the Saints; ſo as becomes War<g ref="char:EOLhyphen"/>riours for God, and the everlaſting Goſpel of Chriſt Jeſus, ſtand clear of them all, and againſt them all, and then there will be no need of Shifts and Excuſes, and crooked Reaſons in the faln wiſdom, to hide or cover any one with. And my dear Friends, let your Yea be Yea, and your Nay be Nay, and keep to the form of Sound Words in all your Communications, Bargains and Dealings one with another, and alſo with them that are without, that ſo you may honour the Lord, and honour his Truth, &amp; convince all with whom you have to do that <hi>truth &amp; righteouſneſs lives in you, and you live in it;</hi> this is the <hi>glory</hi> of all <hi>profeſſion.</hi> And be not forward &amp; raſh in <hi>words</hi> &amp; <hi>promiſes;</hi> for ſome there are, yea, too many, that make profeſſion of Truth &amp;
+<pb n="6" facs="tcp:46095:4"/>true Religion, &amp; yet know not a Bridle for the Tongue; and the Apoſtle laid, <hi>ſuch mens Religion was vain;</hi> ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and too many there are, that are <hi>haſty to promiſe,</hi> and <hi>ſlow to perform,</hi> and then ſhuffle to excuſe themſelves (as <hi>Eve</hi> did) where no Excuſe can properly bear in the Truth; ſo beware of it, I deſire you all; for this was one expreſs Token the Apoſtle laid down of the <hi>falling away;</hi> therefore be careful to make abſolute Promiſes, and be as careful, quick and forward to perform, when promiſed, and that keep, Truth clear, and anſwers the Expectations of all, and preaches to all with whom we have to do, and hereby the Saints reached God's Witneſs in one another in the beginning, ſo keep to it ſtill, and every one ſpeak the Truth from his heart without <hi>diſſimulation,</hi> and learn not the ſleighty words and cunning eva<g ref="char:EOLhyphen"/>ſions of the deceitful ſpirits of this world, which darken know<g ref="char:EOLhyphen"/>ledge, thereby to drive Bargains to accompliſh ſelf ends and co<g ref="char:EOLhyphen"/>vetous deſigns; for ſuch things (though never ſo fairly gloſſed) are inconſiſtent with the innocency and naked ſimplicity of our Goſpel neither is Truth honoured by ſuch deceitful coverings: ſo all Friends, keep clear of ſuch things, and be plain-hearted with all men; for no <hi>coverings</hi> will hide or avail in this bright lightſome <hi>day,</hi> but that of God's eternal Spirit, which will ſtand over all, and <hi>darkneſs</hi> cannot comprehend it; but going from the Light and Spirit of God, into the fallen deceit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul wiſdom, then the world comprehends, and ſounds, and bottoms all ſuck, and ſo Truth ſuffers in the particular, and in the general; ſo the Law of the Spirit of Life, which we profeſs, is beyond all Laws, and a Rule beyond all Rules, and reaches further to the order<g ref="char:EOLhyphen"/>ing and guiding of all thoſe that are reſolved and given up to it, in Obedience, then all Laws, Precepts, Canons or Injunctions that are outward whatſoever; ſo the Righteouſneſs that is God's, which Chriſt-Jeſus is the Author of, is beyond all, &amp; exceeds all the Righteouſneſs of other Profeſſions, <hi>Scribes</hi> or <hi>Phariſees;</hi> whereby its plain every Righteouſneſs doth not enter, nor is accepted of God, but only that which exceeds the <hi>Scribes</hi> and <hi>Phariſees,</hi> which Chriſt works in all his by the Operation of his eternal Spirit. So my dear Friends, wait to feel it, and the ef<g ref="char:EOLhyphen"/>fectual Works of it brought forth in you all, which to feel is more then words, that your Faith may ſtand in it, and in a living
+<pb n="7" facs="tcp:46095:4"/>Enjoyment of it; for that man or woman that doth not feel it, and the efficacy &amp; vertue of it, they bring forth from a ſtrange Vine, which Chriſt Jeſus will not own; and all take heed, and keep low in God's Fear. And you my Friends, that are rich in this World, or have much of the Creat on of God, Do you watch and take heed; for there is a Snare, and that none of the leaſt, which attends that ſtate alſo; and if the Lord hath increa<g ref="char:EOLhyphen"/>ſed your ſtore, ſet not your <hi>hearts</hi> upon them, nor truſt to them; <hi>for he that truſteth to his Riches, ſhall fall;</hi> for as one ſaid, <hi>They are not forever, but ſometimes make themſelves Wings, and fly away:</hi> ſo be not lifted up with them, but eye the Lord, and poſſes as though you poſſeſſed not &amp; labour to be rich towards God, and rich in good Works; and remember poor afflicted <hi>Joſeph,</hi> and be ready to do good, and to communicate, as ſaid the Apoſtle, and keep your Hearts ſingle and looſe to thoſe things, and ſo in God's Wiſdom you will ſee your Way &amp; Ser<g ref="char:EOLhyphen"/>vice, and the End and Uſe of all. And all you Young Men and Women, that are ſingle and unmarryed, you have an O<g ref="char:EOLhyphen"/>portunity to ſerve the Lord; do you keep low, and beware of being entangled or brought in Bondage by youthful Luſts; for thereby many have loſt a <hi>good condition</hi> with God and brought themſelves to Sorrow and Wo, both in this Life and that which is to come: And above all, take heed of joyning Affinity with ſtrange Nations, and ſuch as know not God, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obey the Goſpel of our Lord Jeſus Chriſt; for this was f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rbidden <hi>Iſrael</hi> after the fleſh, <hi>Deut</hi> 7 3, 4. and for their Diſobedience herein, God's anger was kindled againſt them, and they were carryed away captive many years; which made <hi>Ezra,</hi> the Servant of the Lord, rent his Garments, and pluck his Hair off his Head and Beard, and mourn before the Lord, till he and the Elders of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> reſolved to put away their Strange Wives, <hi>Ez</hi> 9, 10. chap. And <hi>Eſau</hi> by marrying the Daughters of <hi>Heth,</hi> ſo grieved his Father and Mother, that <hi>Rebecca</hi> complained, <hi>ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was weary of her Life,</hi> Gen. 27.46. And <hi>Paul</hi> adviſed, <hi>not so be unequally yoaked together, Believers with <g ref="char:V">Ʋ</g>nbelievers, knowing there could be no <g ref="char:V">Ʋ</g>nion between Light and Darkneſs, nor the Temple of God and Idols, &amp;c.</hi> ſo keep your Hearts ſingle to God, and wait in God's Wiſdom to overcome the Wicked One in your own
+<pb n="8" facs="tcp:46095:5"/>particulars, and ſeek to be marryed to the Lord firſt, and joyn<g ref="char:EOLhyphen"/>ed to the Lord by his eternal Spirit, which brings into Unity, and keeps Chaſtity in Mind and Spirit unto him: and ob<g ref="char:EOLhyphen"/>ſerve the Advice of the Apoſtle, who ſaid, <hi>The <g ref="char:V">Ʋ</g>nmar<g ref="char:EOLhyphen"/>ried cared for the things of the Lord, how he or ſhe might pleaſe the Lord; but the married for the things of this World, how he or ſhe might pleaſe Wife or Husband:</hi> So all be watchful, and mind your Places and Callings in Chriſt Jeſus: but if any one (in the Fear and Wiſdom of God) do ſee it their way to marry, let ſuch ſeek God's Counſel, and be not haſty, but wait in it, that he or ſhe may enjoy a Wife or a Husband in the Peace &amp; Love of God, and to be joyned one by his eternal Spirit, and then Meet helps and a Bleſſing one to another, and then the Mar<g ref="char:EOLhyphen"/>riage is honourable, and the Bed undefiled; ſo all keep clean, and live up to God in all things, in all States and Conditions, in your Places and Callings whereunto God hath called you, that the Lord may take pleaſure to do you good, and to multi<g ref="char:EOLhyphen"/>ply his Bleſſings upon you, that the Iſſues of Life and Peace may abound, and run through all, and reſt upon all your Hearts and Souls as the Dew of <hi>Hermon. And the God of Peace and Love preſerve us all in his Peace and Love, and carry us through all by the Arm of his Eternal Power, and guide us all in his hea<g ref="char:EOLhyphen"/>venly Wiſdom, to the Praiſe, Glory and Renown of his Everlaſt<g ref="char:EOLhyphen"/>ing Name, who is God alone, bleſſed forever and for evermore.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your Friend and Brother in the Obedience of Truth</hi> Tho. Carleton.</signed>
+               <date>Written the 13th of the 7th Moneth, 1676.</date>
+            </closer>
+            <pb facs="tcp:46095:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
